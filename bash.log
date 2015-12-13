@@ -1,0 +1,26 @@
+[0;36m[SUCCESS][0m adammandeville's shell is /bin/zsh!
+  [1;33mResponse:[0m [1;37mShell: /bin/zsh[0m
+[0;36m[SUCCESS][0m xcode-select was detected
+  [1;33mResponse:[0m [1;37mxcode-select version 2343.[0m
+[0;36m[SUCCESS][0m brew was detected
+  [1;33mResponse:[0m [1;37mHomebrew 0.9.5 (git revision b3139; last commit 2015-12-11)[0m
+[0;36m[SUCCESS][0m ruby 2.2.1p85 (2015-02-26 revision 49769) [x86_64-darwin15] was detected in the home folder!
+  [1;33mResponse:[0m [1;37m/Users/adammandeville/.rubies/ruby-2.2.1/bin/ruby[0m
+[0;36m[SUCCESS][0m heroku was detected
+  [1;33mResponse:[0m [1;37mheroku-toolbelt/3.42.20 (x86_64-darwin15) ruby/2.2.1 heroku-cli/4.27.6-e59743f (amd64-darwin) go1.5.1 === Installed Plugins heroku-apps@0.5.4 heroku-cli-addons@0.1.1 heroku-fork@4.0.0 heroku-git@2.4.3 heroku-local@4.1.5 heroku-run@2.9.2 heroku-status@1.2.3[0m
+[0;36m[SUCCESS][0m git was detected
+  [1;33mResponse:[0m [1;37mgit version 2.5.4 (Apple Git-61)[0m
+[0;36m[SUCCESS][0m psql was detected
+  [1;33mResponse:[0m [1;37mpsql (PostgreSQL) 9.4.5[0m
+[0;36m[SUCCESS][0m atom was detected
+  [1;33mResponse:[0m [1;37m1.3.1[0m
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/dependency.rb:296:in `to_specs': Could not find 'et' (>= 0) among 64 total gem(s) (Gem::LoadError)
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/dependency.rb:307:in `to_spec'
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/rubygems/core_ext/kernel_gem.rb:47:in `gem'
+	from /usr/local/bin/et:18:in `<main>'
+[0;36m[SUCCESS][0m et was detected
+  [1;33mResponse:[0m [1;37m[0m
+[1;35m[WARNING][0m rspec was not detected!
+Warning: Running `gem pristine --all` to regenerate your installed gemspecs (and deleting then reinstalling your bundle if you use bundle --path) will improve the startup performance of Spring.
+[0;36m[SUCCESS][0m rails was detected
+  [1;33mResponse:[0m [1;37mRails 4.2.5[0m
